@@ -1,0 +1,15 @@
+C:\Users\bfied\Desktop\GameDev Projects\TextAdventure\bin\Debug\net6.0\TextAdventure.exe
+C:\Users\bfied\Desktop\GameDev Projects\TextAdventure\bin\Debug\net6.0\TextAdventure.deps.json
+C:\Users\bfied\Desktop\GameDev Projects\TextAdventure\bin\Debug\net6.0\TextAdventure.runtimeconfig.json
+C:\Users\bfied\Desktop\GameDev Projects\TextAdventure\bin\Debug\net6.0\TextAdventure.dll
+C:\Users\bfied\Desktop\GameDev Projects\TextAdventure\bin\Debug\net6.0\ref\TextAdventure.dll
+C:\Users\bfied\Desktop\GameDev Projects\TextAdventure\bin\Debug\net6.0\TextAdventure.pdb
+C:\Users\bfied\Desktop\GameDev Projects\TextAdventure\obj\Debug\net6.0\TextAdventure.csproj.AssemblyReference.cache
+C:\Users\bfied\Desktop\GameDev Projects\TextAdventure\obj\Debug\net6.0\TextAdventure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bfied\Desktop\GameDev Projects\TextAdventure\obj\Debug\net6.0\TextAdventure.AssemblyInfoInputs.cache
+C:\Users\bfied\Desktop\GameDev Projects\TextAdventure\obj\Debug\net6.0\TextAdventure.AssemblyInfo.cs
+C:\Users\bfied\Desktop\GameDev Projects\TextAdventure\obj\Debug\net6.0\TextAdventure.csproj.CoreCompileInputs.cache
+C:\Users\bfied\Desktop\GameDev Projects\TextAdventure\obj\Debug\net6.0\TextAdventure.dll
+C:\Users\bfied\Desktop\GameDev Projects\TextAdventure\obj\Debug\net6.0\ref\TextAdventure.dll
+C:\Users\bfied\Desktop\GameDev Projects\TextAdventure\obj\Debug\net6.0\TextAdventure.pdb
+C:\Users\bfied\Desktop\GameDev Projects\TextAdventure\obj\Debug\net6.0\TextAdventure.genruntimeconfig.cache
