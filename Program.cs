@@ -65,7 +65,7 @@ namespace TextAdventure
             Console.WriteLine("");
             Console.WriteLine("I am programmed to give you hints to the code.");
             Console.WriteLine("");
-            Console.WriteLine("Press enter key for the first clue.");
+            Console.WriteLine("Press enter key for your clues.");
             Console.ReadKey();
             Console.WriteLine("");
             Console.WriteLine("The first number is the first number");
