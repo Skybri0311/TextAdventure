@@ -65,11 +65,30 @@ namespace TextAdventure
             Console.WriteLine("");
             Console.WriteLine("I am programmed to give you hints to the code.");
             Console.WriteLine("");
-            Console.WriteLine("Press enter key for the first clue.");
+            Console.WriteLine("Press enter key for your clues.");
             Console.ReadKey();
             Console.WriteLine("");
-            Console.WriteLine("The first number is the first number");
+            Console.WriteLine("The first number is the first number.");
             Console.WriteLine("");
+            Console.WriteLine("The second number is 2 times the first.");
+            Console.WriteLine("");
+            Console.WriteLine("The third number is the first number plus the second number.")
+            Console.WriteLine("");
+            Console.WriteLine("The fourth number is 2 times the second number.");
+            Console.WriteLine("");
+            Console.WriteLine("The final number is the fourth number plus the first.");
+            Console.WriteLine("");
+            Console.WriteLine("What is the code?")
+            string codeGuess = Console.ReadLine();
+
+             if(codeGuess == Main.accessCode)
+             {
+                 AccessNetwork();
+             }
+             else
+             {
+                 AccessDenied();
+             }
         }
 
         static void noPlayerHero()
